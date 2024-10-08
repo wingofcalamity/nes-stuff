@@ -1,0 +1,1 @@
+asm6.exe prg.asm build.nes
